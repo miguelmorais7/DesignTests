@@ -8,7 +8,7 @@ Tests of different types of web design, layouts and features using HTML and CSS
 ![](/images/Glowing-Gradient-Loader.png?w=512)
 
 ## Calculator - HTML/CSS
-![](/images/Calculator-Design.png?w=512)
+![](/images/Calculator.png?w=512)
 
 
 
