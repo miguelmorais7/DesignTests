@@ -1,5 +1,6 @@
 # DesignTests
-Tests of different types of web design, layouts and features using HTML and CSS
+Tests of different types of web design, layouts and features using HTML and CSS.
+Number of individual projects at the moment: 4
 
 ## Glowing Gradient Border Effects - HTML/CSS
 ![](/images/Glowing-Gradient-Border.png?w=512)
