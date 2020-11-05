@@ -1,6 +1,6 @@
 # DesignTests
 Tests of different types of web design, layouts and features using HTML and CSS.
-Number of individual projects at the moment: 6
+Number of individual projects at the moment: 7
 
 ## Transparent Login Design - HTML/CSS
 ![](/images/Transparent-Login-Design.png?w=512)
@@ -19,6 +19,9 @@ Number of individual projects at the moment: 6
 
 ## Digital Clock - HTML/CSS/JavaScript
 ![](/images/Digital-Clock.png?w=512)
+
+## Responsive Navbar - HTML/CSS
+![](/images/Responsive-Navbar.png?w=512)
 
 
 
