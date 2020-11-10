@@ -1,6 +1,6 @@
 # DesignTests
 Tests of different types of web design, layouts and features using HTML and CSS.
-Number of individual projects at the moment: 8
+Number of individual projects at the moment: 10
 
 ## Transparent Login Design - HTML/CSS
 ![](/images/Transparent-Login-Design.png?w=512)
@@ -19,6 +19,9 @@ Number of individual projects at the moment: 8
 
 ## Cursor Animation Move - HTML/CSS/JavaScript
 ![](/images/Cursor-Animation.png?w=512)
+
+## Preloader Screen - HTML/CSS/JQuery
+![](/images/Preloader-Screen.png?w=512)
 
 ## Calculator Design - HTML/CSS
 ![](/images/Calculator.png?w=512)
