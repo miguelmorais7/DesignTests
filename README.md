@@ -1,5 +1,5 @@
 # DesignTests
-Tests of different types of web design, layouts and features using HTML and CSS.
+Tests of different types of web design, layouts and features using HTML, CSS, JavaScript or JQuery.
 Number of individual projects at the moment: 10
 
 ## Transparent Login Design - HTML/CSS
