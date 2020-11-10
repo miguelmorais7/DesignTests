@@ -1,6 +1,6 @@
 # DesignTests
 Tests of different types of web design, layouts and features using HTML, CSS, JavaScript or JQuery.
-Number of individual projects at the moment: 10
+Number of individual projects at the moment: 11
 
 ## Transparent Login Design - HTML/CSS
 ![](/images/Transparent-Login-Design.png?w=512)
@@ -22,6 +22,9 @@ Number of individual projects at the moment: 10
 
 ## Preloader Screen - HTML/CSS/JQuery
 ![](/images/Preloader-Screen.png?w=512)
+
+## Newsletter Section - HTML/CSS
+![](/images/Newsletter-Section.png?w=512)
 
 ## Calculator Design - HTML/CSS
 ![](/images/Calculator.png?w=512)
