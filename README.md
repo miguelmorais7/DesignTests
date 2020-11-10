@@ -17,6 +17,9 @@ Number of individual projects at the moment: 8
 ## Glowing Gradient Loader Effects - HTML/CSS
 ![](/images/Glowing-Gradient-Loader.png?w=512)
 
+## Cursor Animation Move - HTML/CSS/JavaScript
+![](/images/Cursor-Animation.png?w=512)
+
 ## Calculator Design - HTML/CSS
 ![](/images/Calculator.png?w=512)
 
