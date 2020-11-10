@@ -1,6 +1,6 @@
 # DesignTests
 Tests of different types of web design, layouts and features using HTML, CSS, JavaScript or JQuery.
-Number of individual projects at the moment: 11
+Number of individual projects at the moment: 12
 
 ## Transparent Login Design - HTML/CSS
 ![](/images/Transparent-Login-Design.png?w=512)
@@ -10,6 +10,9 @@ Number of individual projects at the moment: 11
 
 ## Drop Down Menu Design - HTML/CSS
 ![](/images/Drop-Down-Menu.png?w=512)
+
+## Responsive Pricing Table - HTML/CSS
+![](/images/Responsive-Pricing-Table.png?w=512)
 
 ## Glowing Gradient Border Effects - HTML/CSS
 ![](/images/Glowing-Gradient-Border.png?w=512)
