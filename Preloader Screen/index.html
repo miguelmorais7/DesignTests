@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Preloader Screen With jquery</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <div class="loader-container">
+        <div class="loader"></div>
+    </div>
+
+    <img src="img.jpg" alt="">
+    <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium perspiciatis non totam quisquam, 
+        aliquam, optio pariatur sunt itaque blanditiis voluptates dolor dicta minus nihil harum aut neque quaerat 
+        accusantium necessitatibus?
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium perspiciatis non totam quisquam, 
+        aliquam, optio pariatur sunt itaque blanditiis voluptates dolor dicta minus nihil harum aut neque quaerat 
+        accusantium necessitatibus?
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium perspiciatis non totam quisquam, 
+        aliquam, optio pariatur sunt itaque blanditiis voluptates dolor dicta minus nihil harum aut neque quaerat 
+        accusantium necessitatibus?
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium perspiciatis non totam quisquam, 
+        aliquam, optio pariatur sunt itaque blanditiis voluptates dolor dicta minus nihil harum aut neque quaerat 
+        accusantium necessitatibus?
+    </p>
+
+    <script>
+        $(window).on("load",function(){
+            $(".loader-container").fadeOut(5000);
+        });
+    </script>
+</body>
+</html>
