@@ -1,9 +1,12 @@
 # DesignTests
 Tests of different types of web design, layouts and features using HTML and CSS.
-Number of individual projects at the moment: 7
+Number of individual projects at the moment: 8
 
 ## Transparent Login Design - HTML/CSS
 ![](/images/Transparent-Login-Design.png?w=512)
+
+## Hover Effect Media Buttons - HTML/CSS
+![](/images/Hover-Effect-Media-Button.png?w=512)
 
 ## Drop Down Menu Design - HTML/CSS
 ![](/images/Drop-Down-Menu.png?w=512)
