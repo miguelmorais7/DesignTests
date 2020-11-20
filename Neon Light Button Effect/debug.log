@@ -1,0 +1,7 @@
+[1119/224230.104:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1119/224230.104:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\migue\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\66facb40-b955-4d97-a795-802d0fd19e23: O sistema não pode encontrar o caminho especificado. (0x3)
+[1119/224230.104:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\migue\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\6a78cf8b-7ccf-4108-aee2-b44625c522dc: O sistema não pode encontrar o caminho especificado. (0x3)
+[1119/224230.104:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\migue\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\affcddcb-4d90-4ed3-b9b9-774d621fc990: O sistema não pode encontrar o caminho especificado. (0x3)
+[1119/224230.104:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\migue\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\3b0629cc-6155-45ed-8934-afce95fe65ee: O sistema não pode encontrar o caminho especificado. (0x3)
+[1119/224230.120:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\migue\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\3f235bfb-3f66-4612-8379-5874b410464d: O sistema não pode encontrar o caminho especificado. (0x3)
+[1119/224230.122:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\migue\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\d119951c-9dca-4f41-b7c1-75a8940abaf5: O sistema não pode encontrar o caminho especificado. (0x3)
