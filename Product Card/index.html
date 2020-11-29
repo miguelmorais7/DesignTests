@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Product Card</title>
+</head>
+<body>
+    <div class="product-card">
+        <h1>Jordan Sneakers</h1>
+        <p>Lorem ipsum dolor sit amet. </p>
+        <div class="product-pic"></div>
+        <div class="product-colors">
+            <span class="purple" data-color="#4834d4" data-pic="url(2.jpg)"></span>
+            <span class="green" data-color="#009432" data-pic="url(3.jpg)"></span>
+            <span class="grey active"data-color="#b2bec3" data-pic="url(1.jpg)"></span>
+            <span class="yellow" data-color="#fbc531" data-pic="url(4.jpg)"></span>
+        </div>
+        <div class="product-info">
+            <div class="product-price">$120</div>
+            <a href="#" class="product-button">Add to Cart</a>
+        </div>
+    </div>
+
+    <script>
+        $(".product-colors span").click(function(){
+            $(".product-colors span").removeClass("active");
+            $(this).addClass("active");
+            $("body").css("background",$(this).attr("data-color"));
+            $(".product-price").css("color",$(this).attr("data-color"));
+            $(".product-button").css("color",$(this).attr("data-color"));
+            $(".product-pic").css("background-image",$(this).attr("data-pic"));
+        })
+    </script>
+</body>
+</html>
