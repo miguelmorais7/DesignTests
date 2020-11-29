@@ -1,9 +1,12 @@
 # DesignTests
 Tests of different types of web design, layouts and features using HTML, CSS, JavaScript or JQuery.
-Number of individual projects at the moment: 15
+Number of individual projects at the moment: 16
 
 ## Transparent Login Design - HTML/CSS
 ![](/images/Transparent-Login-Design.png?w=512)
+
+## Page Brightness - HTML/CSS
+![](/images/Page-Brightness.png?w=512)
 
 ## Hover Effect Media Buttons - HTML/CSS
 ![](/images/Hover-Effect-Media-Button.png?w=512)
