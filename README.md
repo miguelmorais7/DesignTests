@@ -11,6 +11,9 @@ Number of individual projects at the moment: 17
 ## Image Hotspot - HTML/CSS
 ![](/images/Image-Hotspot.png?w=512)
 
+## Product Card - HTML/CSS/JQuery
+![](/images/Product-Card.png?w=512)
+
 ## Hover Effect Media Buttons - HTML/CSS
 ![](/images/Hover-Effect-Media-Button.png?w=512)
 
