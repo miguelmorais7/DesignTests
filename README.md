@@ -20,6 +20,9 @@ Number of individual projects at the moment: 18
 ## Drop Down Menu Design - HTML/CSS
 ![](/images/Drop-Down-Menu.png?w=512)
 
+## Scroll Top Button - HTML/CSS
+![](/images/Scroll-Top-Btn.png?w=512)
+
 ## Responsive Pricing Table - HTML/CSS
 ![](/images/Responsive-Pricing-Table.png?w=512)
 
