@@ -23,6 +23,9 @@ Number of individual projects at the moment: 18
 ## Responsive Pricing Table - HTML/CSS
 ![](/images/Responsive-Pricing-Table.png?w=512)
 
+## Pagination Buttons - HTML/CSS
+![](/images/Pagination-Buttons.png?w=512)
+
 ## Glowing Gradient Border Effects - HTML/CSS
 ![](/images/Glowing-Gradient-Border.png?w=512)
 
