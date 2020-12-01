@@ -1,6 +1,6 @@
 # DesignTests
-Tests of different types of web design, layouts and features using HTML, CSS, JavaScript or JQuery.
-Number of individual projects at the moment: 21
+Tests of different types of web design, layouts and features using SVG, HTML, CSS, JavaScript or JQuery.
+Number of individual projects at the moment: 22
 
 ## Transparent Login Design - HTML/CSS
 ![](/images/Transparent-Login-Design.png?w=512)
@@ -31,6 +31,9 @@ Number of individual projects at the moment: 21
 
 ## Percentage Bars 2 - HTML/CSS
 ![](/images/Percentage-Bars-2.png?w=512)
+
+## Circle Progress - HTML/CSS
+![](/images/Circle-Progress.png?w=512)
 
 ## Glowing Gradient Border Effects - HTML/CSS
 ![](/images/Glowing-Gradient-Border.png?w=512)
