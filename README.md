@@ -1,6 +1,6 @@
 # DesignTests
 Tests of different types of web design, layouts and features using SVG, HTML, CSS, JavaScript or JQuery.
-Number of individual projects at the moment: 22
+Number of individual projects at the moment: 23
 
 ## Transparent Login Design - HTML/CSS
 ![](/images/Transparent-Login-Design.png?w=512)
