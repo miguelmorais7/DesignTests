@@ -1,6 +1,6 @@
 # DesignTests
 Tests of different types of web design, layouts and features using SVG, HTML, CSS, JavaScript or JQuery.
-Number of individual projects at the moment: 23
+Number of individual projects at the moment: 24
 
 ## Transparent Login Design - HTML/CSS
 ![](/images/Transparent-Login-Design.png?w=512)
@@ -40,6 +40,9 @@ Number of individual projects at the moment: 23
 
 ## Glowing Gradient Border Effects - HTML/CSS
 ![](/images/Glowing-Gradient-Border.png?w=512)
+
+## User Account Dropdown Menu - HTML/CSS/JavaScript
+![](/images/User-Account-Dropdown-Menu.png?w=512)
 
 ## Neon Light Button Effect - HTML/CSS
 ![](/images/Neon-Hover-Effect.png?w=512)
