@@ -35,6 +35,9 @@ Number of individual projects at the moment: 22
 ## Circle Progress - HTML/CSS
 ![](/images/Circle-Progress.png?w=512)
 
+## Check Email Validation - HTML/CSS
+![](/images/Check-Email-Validation.png?w=512)
+
 ## Glowing Gradient Border Effects - HTML/CSS
 ![](/images/Glowing-Gradient-Border.png?w=512)
 
