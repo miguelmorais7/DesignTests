@@ -1,6 +1,6 @@
 # DesignTests
 Tests of different types of web design, layouts and features using SVG, HTML, CSS, JavaScript or JQuery.
-Number of individual projects at the moment: 24
+Number of individual projects at the moment: 25
 
 ## Transparent Login Design - HTML/CSS
 ![](/images/Transparent-Login-Design.png?w=512)
@@ -16,6 +16,9 @@ Number of individual projects at the moment: 24
 
 ## Hover Effect Media Buttons - HTML/CSS
 ![](/images/Hover-Effect-Media-Button.png?w=512)
+
+## List Item Hover Effects - HTML/CSS
+![](/images/List-Item-Hover.png?w=512)
 
 ## Drop Down Menu Design - HTML/CSS
 ![](/images/Drop-Down-Menu.png?w=512)
