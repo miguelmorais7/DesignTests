@@ -1,6 +1,6 @@
 # DesignTests
 Tests of different types of web design, layouts and features using SVG, HTML, CSS, JavaScript or JQuery.
-Number of individual projects at the moment: 26
+Number of individual projects at the moment: 27
 
 ## Transparent Login Design - HTML/CSS
 ![](/images/Transparent-Login-Design.png?w=512)
@@ -10,6 +10,9 @@ Number of individual projects at the moment: 26
 
 ## Image Hotspot - HTML/CSS
 ![](/images/Image-Hotspot.png?w=512)
+
+## Parallax Effect - HTML/CSS
+![](/images/Parallax-Effect.png?w=512)
 
 ## Product Card - HTML/CSS/JQuery
 ![](/images/Product-Card.png?w=512)
