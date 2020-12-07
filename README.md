@@ -1,6 +1,6 @@
 # DesignTests
 Tests of different types of web design, layouts and features using SVG, HTML, CSS, JavaScript or JQuery.
-Number of individual projects at the moment: 28
+Number of individual projects at the moment: 29
 
 ## Transparent Login Design - HTML/CSS
 ![](/images/Transparent-Login-Design.png?w=512)
@@ -85,5 +85,8 @@ Number of individual projects at the moment: 28
 
 ## Floating Ghost - HTML/CSS
 ![](/images/Ghost.png?w=512)
+
+## Falling Stars Effect - HTML/CSS
+![](/images/Falling-Stars-Effect.png?w=512)
 
 
